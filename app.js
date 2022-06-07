@@ -38,10 +38,10 @@
 
  // ***********************TASK 5******************************
 
-//  var arr = ["apple","mango" , "banana" , "orange" ,"strawberry"];
-//  for ( var i=0 ;  i < arr.length ; i++){
-//      document.write(arr[i]  + "<br>")
-//  }
+ // var arr = ["apple","mango" , "banana" , "orange" ,"strawberry"];
+ // for ( var i=0 ;  i < arr.length ; i++){
+ //    document.write(arr[i] +" " + "is in index "+[i] +"<br>")
+ //}
 
 
 
@@ -90,18 +90,23 @@
 
  // ***********************TASK 7******************************
 
-//  var ae = ["cake", "apple pie", "cookie", "chips", "patties"]
-//  var oli = prompt("Enter what you want from our bakery")
-//  if(oli  === ae[0] || oli  === ae[1] || oli  === ae[2]|| oli  === ae[3]|| oli  === ae[4] ){ console.log(ae)
-//      alert( oli + "is availale at our resturant")
-//  }
-//  else{alert(oli +"not available")}
- 
- // ***********************TASK 8******************************
 
-// var A = [24, 53, 78, 91, 12];
-// // var b = [91];
-// if()
+ //    var ae = ["cake", "apple pie", "cookie", "chips", "patties"]
+ //var oli = prompt("Enter what you want from our bakery")
+ //var flag = true;
+//for (var i = 0; i <= ae.length ; i++){
+//  if( oli === ae[i]){
+//    flag = false;
+//    document.write( oli + "is available at index " + [i] )
+ //   break
+ // }
+//}
+//if(flag === true){
+//  document.write("your product is not available")
+//}
+ 
+
+ // ***********************TASK 8******************************
 
 
 //  var array = [1 , 2 , 3 , 6 , 12 , 13 , 17 , 500 , 3]; 
